@@ -45,9 +45,6 @@ Advisors (aka people I'm constantly learning from as I figure out how to turn my
 [DefenderOfBasic](https://github.com/DefenderOfBasic/PhD) - I am literally cloning his template with this repository, and he's showing me how easy it all could have been. He's doing exactly what I wanted to do when I started my journey, and he didn't get caught by the allure of the venture capital space. Because I started looking at the VC space initially, my first instinct is to go back to it with what I've learned instead of simply turning my research into something legible and not trying to solve the whole problem at once.
 
 
-
-
-
 💰 Funding
 
 Currently self-funded while developing initial frameworks and proof-of-concept models. 
@@ -56,8 +53,8 @@ Goal is for research to lead to products that will be commercialized via my vent
 
 Building in public to attract aligned collaborators and potential funding sources. 
 
-If you want to support, you can do so here:
-https://ko-fi.com/leoguinan
+If you want to support me, [you can do so here](https://ko-fi.com/leoguinan):
+
 
 🧭 Long term vision
 
