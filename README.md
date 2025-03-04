@@ -25,11 +25,11 @@ My work is conducted openly to maximize collaborative potential and ensure trans
 
 🔭 Directions I'm currently working on
 
-1. Human Insurance - A model for investing in people as valuable assets
+1. [Human Insurance](https://engineeringgenerosity.substack.com/p/the-key-to-the-future-is-human-insurance) - A model for investing in people as valuable assets
 
 2. Memetic economics - Understanding how ideas about value spread and evolve
 
-3. Complexity inflation - Analyzing how organizational complexity affects value creation
+3. [Complexity inflation](https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/) - Analyzing how organizational complexity affects value creation
 
 4. Time-value relationships - Exploring how our understanding of time shapes economic decisions
 
@@ -44,6 +44,7 @@ Self-directed research with inspiration from various thought partners. My approa
 [Corey Wilks](https://coreywilkspsyd.com/) - Corey has helped me a ton on my entrepreneurial applications of the research by helping me identify some fears that were holding me back in my applications of my research.
 
 [DefenderOfBasic](https://github.com/DefenderOfBasic/PhD) - I am literally cloning his template with this repository, and he's showing me how easy it all could have been. He's doing exactly what I wanted to do when I started my journey, and he didn't get caught by the allure of the venture capital space. Because I started looking at the VC space initially, my first instinct is to go back to it with what I've learned instead of simply turning my research into something legible and not trying to solve the whole problem at once.
+
 
 
 💰 Funding
