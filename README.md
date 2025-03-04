@@ -40,8 +40,11 @@ Self-directed research with input from various thought partners. My approach com
 Advisors (aka people I'm constantly learning from as I figure out how to turn my research into valuable work for others):
 
 [Paul Millerd](https://newsletter.pathlesspath.com/) - The Pathless Path and Good Work are huge inspirations for me, and I love his work/thinking about post-labor economics. He shows me what a life could be after moving so fast as an engineer.
+
 [JayClouse](https://creatorscience.com/) - All things Creator Economy and how to run experiments as a creator. I can't even quantify how much I've learned from Jay.
+
 [Corey Wilks](https://coreywilkspsyd.com/) - Corey has helped me a ton on my entrepreneurial applications of the research by helping me identify some fears that were holding me back in my applications of my research.
+
 [DefenderOfBasic](https://github.com/DefenderOfBasic/PhD) - I am literally cloning his template with this repository, and he's showing me how easy it all could have been. He's doing exactly what I wanted to do when I started my journey, and he didn't get caught by the allure of the venture capital space. Because I started looking at the VC space initially, my first instinct is to go back to it with what I've learned instead of simply turning my research into something legible and not trying to solve the whole problem at once.
 
 
