@@ -33,11 +33,9 @@ My work is conducted openly to maximize collaborative potential and ensure trans
 
 4. Time-value relationships - Exploring how our understanding of time shapes economic decisions
 
-🧑‍🏫 Advisors
+🧑‍🏫 Advisors (aka people I'm constantly learning from as I figure out how to turn my research into valuable work for others):
 
-Self-directed research with input from various thought partners. My approach combines academic rigor with practical implementation and real-world testing.
-
-Advisors (aka people I'm constantly learning from as I figure out how to turn my research into valuable work for others):
+Self-directed research with inspiration from various thought partners. My approach combines academic rigor with practical implementation and real-world testing.
 
 [Paul Millerd](https://newsletter.pathlesspath.com/) - The Pathless Path and Good Work are huge inspirations for me, and I love his work/thinking about post-labor economics. He shows me what a life could be after moving so fast as an engineer.
 
