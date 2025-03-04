@@ -45,6 +45,8 @@ Self-directed research with inspiration from various thought partners. My approa
 
 [DefenderOfBasic](https://github.com/DefenderOfBasic/PhD) - I am literally cloning his template with this repository, and he's showing me how easy it all could have been. He's doing exactly what I wanted to do when I started my journey, and he didn't get caught by the allure of the venture capital space. Because I started looking at the VC space initially, my first instinct is to go back to it with what I've learned instead of simply turning my research into something legible and not trying to solve the whole problem at once.
 
+[Myk Bilokonsky](https://myk.pub/) -Myk and I have been hovering around the same ideas for a long time now. Our areas of work are starting to converge rapidly.
+
 
 
 💰 Funding
