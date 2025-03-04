@@ -56,6 +56,9 @@ Building in public to attract aligned collaborators and potential funding source
 
 If you want to support me, [you can do so here](https://ko-fi.com/leoguinan):
 
+If you know of any funding opportunities for my work, please let me know.
+
+
 
 🧭 Long term vision
 
