@@ -59,7 +59,7 @@ Goal is for research to lead to products that will be commercialized via my vent
 
 Building in public to attract aligned collaborators and potential funding sources. 
 
-If you want to support me, [you can do so here](https://ko-fi.com/leoguinan):
+If you want to support me, [you can do so here](https://ko-fi.com/leoguinan).
 
 If you know of any funding opportunities for my work, please let me know.
 
