@@ -28,10 +28,12 @@ My work is conducted openly to maximize collaborative potential and ensure trans
 1. [Human Insurance](https://engineeringgenerosity.substack.com/p/the-key-to-the-future-is-human-insurance) - A model for investing in people as valuable assets
 
 2. Memetic economics - Understanding how ideas about value spread and evolve
+   
+3. [Memetic Emergence Theory](https://www.buildinpublicuniversity.com/memetic-emergence-theory/)- intelligence is a function of communication, not just individuals
 
-3. [Complexity inflation](https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/) - Analyzing how organizational complexity affects value creation
+4. [Complexity inflation](https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/) - Analyzing how organizational complexity affects value creation
 
-4. Time-value relationships - Exploring how our understanding of time shapes economic decisions
+5. Time-value relationships - Exploring how our understanding of time shapes economic decisions
 
 🧑‍🏫 Advisors (aka people I'm constantly learning from as I figure out how to turn my research into valuable work for others):
 
