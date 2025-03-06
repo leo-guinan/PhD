@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grant_proposals/Community Cultural LLM Grant Proposal.md",
+                "file": "literature_reviews/Nash Equilibrium Outside of Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Community Cultural LLM Grant Proposal"
+              "title": "Nash Equilibrium Outside of Games"
+            }
+          },
+          {
+            "id": "aa99f5a539fc92cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Nash Equilibrium Outside of Games.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nash Equilibrium Outside of Games"
+            }
+          },
+          {
+            "id": "7e8ace6ba97fe549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Coordination Costs in Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coordination Costs in Networks"
+            }
+          },
+          {
+            "id": "e95acaa84cae73af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analysis/Monetizing the Nooscope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monetizing the Nooscope"
+            }
+          },
+          {
+            "id": "36df92b0af50962c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transaction Cost Economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transaction Cost Economics"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 750.5
   },
   "right": {
     "id": "c8b6f346113731c1",
@@ -94,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grant_proposals/Community Cultural LLM Grant Proposal.md",
+                "file": "Transaction Cost Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Community Cultural LLM Grant Proposal"
+              "title": "Backlinks for Transaction Cost Economics"
             }
           },
           {
@@ -113,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grant_proposals/Community Cultural LLM Grant Proposal.md",
+                "file": "Transaction Cost Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Community Cultural LLM Grant Proposal"
+              "title": "Outgoing links from Transaction Cost Economics"
             }
           },
           {
@@ -142,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grant_proposals/Community Cultural LLM Grant Proposal.md",
+                "file": "Transaction Cost Economics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Community Cultural LLM Grant Proposal"
+              "title": "Outline of Transaction Cost Economics"
             }
           }
         ]
@@ -168,9 +225,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f0befbd58410af",
+  "active": "36df92b0af50962c",
   "lastOpenFiles": [
+    "analysis/Monetizing the Nooscope.md",
+    "Transaction Cost Economics.md",
+    "literature_reviews/Coordination Costs in Networks.md",
+    "analysis",
+    "literature_reviews/Nash Equilibrium Outside of Games.md",
+    "literature_reviews/The Economics of Attention.md",
+    "literature_reviews/Information Asymmetry in Economic Theory and Pract.pdf",
+    "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.pdf",
+    "literature_reviews/Organizational Scaling Challenges_ Integrating Bro.md",
+    "literature_reviews/Proximity to Value Understanding_ Integrating Dist.md",
+    "literature_reviews/The Evolving Landscape of Coordination Costs in Or.md",
+    "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.md",
+    "literature_reviews/Information Asymmetry in Economic Theory and Pract(1).pdf",
+    "literature_reviews/Information Asymmetry in Economic Theory and Pract.md",
     "grant_proposals/Community Cultural LLM Grant Proposal.md",
+    "literature_reviews",
     "grant_proposals"
   ]
 }
