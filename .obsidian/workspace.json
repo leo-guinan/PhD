@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transaction Cost Economics.md",
+                "file": "literature_reviews/Transaction Cost Economics.md",
                 "mode": "source",
                 "source": false
               },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transaction Cost Economics.md",
+                "file": "literature_reviews/Transaction Cost Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transaction Cost Economics.md",
+                "file": "literature_reviews/Transaction Cost Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transaction Cost Economics.md",
+                "file": "literature_reviews/Transaction Cost Economics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,10 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36df92b0af50962c",
+  "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
     "analysis/Monetizing the Nooscope.md",
-    "Transaction Cost Economics.md",
+    "literature_reviews/Transaction Cost Economics.md",
     "literature_reviews/Coordination Costs in Networks.md",
     "analysis",
     "literature_reviews/Nash Equilibrium Outside of Games.md",
