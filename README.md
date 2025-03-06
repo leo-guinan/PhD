@@ -49,6 +49,8 @@ Self-directed research with inspiration from various thought partners. My approa
 
 [Myk Bilokonsky](https://myk.pub/) -Myk and I have been hovering around the same ideas for a long time now. Our areas of work are starting to converge rapidly.
 
+[Dr. Ally Louks](https://x.com/DrAllyLouks) - Dr Louks is my hero. Watching her rapid ascent in the social eye with grace and wit has blown my mind. She's a breath of fresh air from "real" academia that I'm happy to see. And if I can have half as many people interested in my research, I'll have won the lottery. She's the academic I aspire to be.
+
 
 
 💰 Funding

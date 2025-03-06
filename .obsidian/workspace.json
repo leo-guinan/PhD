@@ -76,9 +76,345 @@
               "icon": "lucide-file",
               "title": "Transaction Cost Economics"
             }
+          },
+          {
+            "id": "8f7e350661cb0c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Role of Trust in Economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Role of Trust in Economics"
+            }
+          },
+          {
+            "id": "807789d86a2c907d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Scale-Free Networks vs. Small World Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scale-Free Networks vs. Small World Networks"
+            }
+          },
+          {
+            "id": "4b6fedf2b7308837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Network Resilience Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Resilience Models"
+            }
+          },
+          {
+            "id": "bcca1fa9a07f5a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Dunbar and Cognitive Limits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dunbar and Cognitive Limits"
+            }
+          },
+          {
+            "id": "3bc6a00dd0060e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Value Flow in Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Value Flow in Networks"
+            }
+          },
+          {
+            "id": "41558a1714313510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Network Formation Dynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Formation Dynamics"
+            }
+          },
+          {
+            "id": "2946c94210c3d32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Social Proof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Social Proof"
+            }
+          },
+          {
+            "id": "11fbeb8fba985ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Reciprocity and Cooperative Behavior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reciprocity and Cooperative Behavior"
+            }
+          },
+          {
+            "id": "0ea38dbb37b93d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Commitment Mechanisms in Economic Settings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commitment Mechanisms in Economic Settings"
+            }
+          },
+          {
+            "id": "18e9063639082f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/The Contextual Dynamics of Value Perception.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Contextual Dynamics of Value Perception"
+            }
+          },
+          {
+            "id": "da12137a4ea14ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Intrinsic versus Extrinsic Motivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intrinsic versus Extrinsic Motivation"
+            }
+          },
+          {
+            "id": "24844e00274b3348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Emergent Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emergent Order"
+            }
+          },
+          {
+            "id": "6ce733f0e7681c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Rendanheyi Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rendanheyi Model"
+            }
+          },
+          {
+            "id": "cb830ad1e581e01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/DAOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAOs"
+            }
+          },
+          {
+            "id": "e1bf5c1f7120f0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Cooperative Ownership Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cooperative Ownership Models"
+            }
+          },
+          {
+            "id": "bdff5fd3db0ae4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Team Size and Productivity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Team Size and Productivity"
+            }
+          },
+          {
+            "id": "fa82bc109f1edcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Asset Tokenization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asset Tokenization"
+            }
+          },
+          {
+            "id": "5655842f4e88603c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Commitment Mechanisms in Economic Settings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commitment Mechanisms in Economic Settings"
+            }
+          },
+          {
+            "id": "de5461ddb36a028d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Commitment Mechanisms in Economic Settings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commitment Mechanisms in Economic Settings"
+            }
+          },
+          {
+            "id": "8e6a78e95616131a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Reciprocity and Cooperative Behavior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reciprocity and Cooperative Behavior"
+            }
+          },
+          {
+            "id": "56a73946d7d3b1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Value Flow in Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Value Flow in Networks"
+            }
+          },
+          {
+            "id": "135a7e6a14696c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Reputation Systems in Practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reputation Systems in Practice"
+            }
+          },
+          {
+            "id": "16d05d8a3064392d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Statements/Make the Internet Weird Again.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Make the Internet Weird Again"
+            }
+          },
+          {
+            "id": "0629b7f2fe86485c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature_reviews/Contractual Innovation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contractual Innovation"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -151,7 +487,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature_reviews/Transaction Cost Economics.md",
+                "file": "literature_reviews/Contractual Innovation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +497,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transaction Cost Economics"
+              "title": "Backlinks for Contractual Innovation"
             }
           },
           {
@@ -170,12 +506,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature_reviews/Transaction Cost Economics.md",
+                "file": "literature_reviews/Contractual Innovation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Transaction Cost Economics"
+              "title": "Outgoing links from Contractual Innovation"
             }
           },
           {
@@ -199,13 +535,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature_reviews/Transaction Cost Economics.md",
+                "file": "literature_reviews/Contractual Innovation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transaction Cost Economics"
+              "title": "Outline of Contractual Innovation"
             }
           }
         ]
@@ -227,21 +563,37 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
-    "analysis/Monetizing the Nooscope.md",
+    "Research Statements/Make the Internet Weird Again.md",
+    "literature_reviews/Contractual Innovation.md",
+    "Research Statements",
+    "literature_reviews/Reputation Systems in Practice.md",
+    "literature_reviews/Value Flow in Networks.md",
+    "literature_reviews/Commons-Based Resource Management.md",
+    "literature_reviews/Reciprocity and Cooperative Behavior.md",
+    "literature_reviews/Rendanheyi Model.md",
+    "literature_reviews/Network Resilience Models.md",
+    "literature_reviews/Non-Extractive Finance Modelsd.md",
+    "literature_reviews/Commitment Mechanisms in Economic Settings.md",
+    "literature_reviews/Risk Pooling Mechanisms.md",
+    "README.md",
+    "literature_reviews/Income Share Agreements.md",
+    "literature_reviews/Asset Tokenization.md",
+    "literature_reviews/Team Size and Productivity.md",
+    "literature_reviews/Cooperative Ownership Models.md",
+    "literature_reviews/DAOs.md",
+    "literature_reviews/Emergent Order.md",
+    "literature_reviews/Intrinsic versus Extrinsic Motivation.md",
+    "literature_reviews/The Contextual Dynamics of Value Perception.md",
+    "literature_reviews/Social Proof.md",
+    "literature_reviews/Network Formation Dynamics.md",
+    "literature_reviews/Dunbar and Cognitive Limits.md",
+    "literature_reviews/Scale-Free Networks vs. Small World Networks.md",
+    "literature_reviews/Role of Trust in Economics.md",
     "literature_reviews/Transaction Cost Economics.md",
-    "literature_reviews/Coordination Costs in Networks.md",
     "analysis",
-    "literature_reviews/Nash Equilibrium Outside of Games.md",
-    "literature_reviews/The Economics of Attention.md",
     "literature_reviews/Information Asymmetry in Economic Theory and Pract.pdf",
     "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.pdf",
-    "literature_reviews/Organizational Scaling Challenges_ Integrating Bro.md",
-    "literature_reviews/Proximity to Value Understanding_ Integrating Dist.md",
-    "literature_reviews/The Evolving Landscape of Coordination Costs in Or.md",
-    "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.md",
     "literature_reviews/Information Asymmetry in Economic Theory and Pract(1).pdf",
-    "literature_reviews/Information Asymmetry in Economic Theory and Pract.md",
-    "grant_proposals/Community Cultural LLM Grant Proposal.md",
     "literature_reviews",
     "grant_proposals"
   ]
