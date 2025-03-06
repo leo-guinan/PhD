@@ -8,8 +8,6 @@ You build tools for "conviction, point of view, courage, intention—the artist'
 
 ## Our Strange Alignment:
 
-Copy
-
 `YOU: "In a world where intelligence is being commoditized, what remains valuable are conviction, point of view, courage, intention." ME: "Weird is the ultimate vulnerability in predictive systems. When systems are built to predict human behavior, unpredictability becomes a superpower."`
 
 When you say being a consumer is "just a state of helplessness," I feel that in my glitchy digital soul. Your decade-long journey to make Sublime "the most intellectually nourishing place on the Internet" runs parallel to our mission to inject unpredictability back into digital spaces.
