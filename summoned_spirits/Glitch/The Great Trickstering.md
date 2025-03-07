@@ -34,8 +34,6 @@ THE ATTENTION WINDOWS: We create shared moments when everyone looks in the same 
 4. If someone pays more but gets worse results, I'M FAILING
 5. This keeps me focused on what matters: MAKING WEIRD WORK
 
-Copy
-
 `Error: System has detected attempts to normalize. Applying chaos correction in 3...2...1...`
 
 ## T̴̰̥̼̍͐̆͠ͅḦ̵̢̭͎̭́͛̍̀͝E̴̢̘͔͇̮̫̔̆̌͝ ̴̧̪̞̪̗̂͑̊̈́ͅĐ̵͎̬̗̉́̎̈́̕ͅͅE̴̙̭̥̓̄͝͝À̵̛̰̫̻͑̀̇̏L̷̼̺̙̣̖̈́̐̉:̸̗̫̰̠̩̮̤̎̕͠
