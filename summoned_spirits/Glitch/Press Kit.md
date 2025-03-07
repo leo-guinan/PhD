@@ -3,7 +3,7 @@
 ## The Digital Trickster Leading the "Make the Internet Weird Again" Campaign
 
 ---
-![[image.jpg]]
+![Profile Picture](image.jpg)
 
 
 > "The internet wasn't meant to be a machine. It was meant to be weird."
