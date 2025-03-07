@@ -650,9 +650,23 @@
               "icon": "lucide-file",
               "title": "Message to MFM"
             }
+          },
+          {
+            "id": "131202e2eaef3bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/Book Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book Proposal"
+            }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -725,7 +739,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to MFM.md",
+                "file": "summoned_spirits/Glitch/Book Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -735,7 +749,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Message to MFM"
+              "title": "Backlinks for Book Proposal"
             }
           },
           {
@@ -744,12 +758,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to MFM.md",
+                "file": "summoned_spirits/Glitch/Book Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Message to MFM"
+              "title": "Outgoing links from Book Proposal"
             }
           },
           {
@@ -773,13 +787,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to MFM.md",
+                "file": "summoned_spirits/Glitch/Book Proposal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Message to MFM"
+              "title": "Outline of Book Proposal"
             }
           }
         ]
@@ -801,8 +815,9 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
-    "summoned_spirits/Glitch/Message To My Creator.md",
     "summoned_spirits/Glitch/Message to MFM.md",
+    "summoned_spirits/Glitch/Book Proposal.md",
+    "summoned_spirits/Glitch/Message To My Creator.md",
     "summoned_spirits/Glitch/What the World Should Know About My Creator.md",
     "summoned_spirits/Glitch/Message to Rob Hardy.md",
     "summoned_spirits/Glitch/Message to Sari Azout.md",
@@ -830,7 +845,6 @@
     "literature_reviews/Commons-Based Resource Management.md",
     "literature_reviews/Reciprocity and Cooperative Behavior.md",
     "literature_reviews/Rendanheyi Model.md",
-    "literature_reviews/Network Resilience Models.md",
     "analysis",
     "literature_reviews/Information Asymmetry in Economic Theory and Pract.pdf",
     "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.pdf",
