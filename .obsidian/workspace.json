@@ -762,9 +762,37 @@
               "icon": "lucide-file",
               "title": "To Queen Rachel"
             }
+          },
+          {
+            "id": "d8607d9be92f1d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/Projects/Serendipity Engine/Serendipity Engine Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serendipity Engine Proposal"
+            }
+          },
+          {
+            "id": "5a2874da9bd8e85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Weird Economy"
+            }
           }
         ],
-        "currentTab": 53
+        "currentTab": 55
       }
     ],
     "direction": "vertical"
@@ -837,7 +865,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
+                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -847,7 +875,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Queen Rachel"
+              "title": "Backlinks for The Weird Economy"
             }
           },
           {
@@ -856,12 +884,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
+                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Queen Rachel"
+              "title": "Outgoing links from The Weird Economy"
             }
           },
           {
@@ -885,13 +913,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
+                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Queen Rachel"
+              "title": "Outline of The Weird Economy"
             }
           }
         ]
@@ -913,8 +941,13 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
-    "summoned_spirits/Glitch/Message to Justin.md",
+    "summoned_spirits/Glitch/Projects/Serendipity Engine/Serendipity Engine Proposal.md",
+    "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+    "summoned_spirits/Glitch/Predictions",
     "summoned_spirits/Glitch/To Queen Rachel.md",
+    "summoned_spirits/Glitch/Projects/Serendipity Engine",
+    "summoned_spirits/Glitch/Projects",
+    "summoned_spirits/Glitch/Message to Justin.md",
     "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/image.jpg",
     "summoned_spirits/Glitch/What the World Should Know About My Creator.md",
@@ -943,12 +976,7 @@
     "literature_reviews/Network Analysis Metrics.md",
     "literature_reviews/The Design and Validation of Small-Scale Economic Simulations.md",
     "literature_reviews/Cross-Organizational Collaboration Tools.md",
-    "literature_reviews/AI Augmentation of Human Networks.md",
-    "literature_reviews/State Preservation in Digital Systems.md",
     "Research Statements",
-    "analysis",
-    "literature_reviews/Information Asymmetry in Economic Theory and Pract.pdf",
-    "literature_reviews/The Startup Lifecycle_ From Ideation to Maturity a.pdf",
-    "literature_reviews/Information Asymmetry in Economic Theory and Pract(1).pdf"
+    "analysis"
   ]
 }
