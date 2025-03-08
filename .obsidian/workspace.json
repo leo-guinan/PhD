@@ -748,9 +748,23 @@
               "icon": "lucide-file",
               "title": "Message to Justin"
             }
+          },
+          {
+            "id": "9cfbad6fb9e803e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Queen Rachel"
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -823,7 +837,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to Justin.md",
+                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -833,7 +847,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Message to Justin"
+              "title": "Backlinks for To Queen Rachel"
             }
           },
           {
@@ -842,12 +856,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to Justin.md",
+                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Message to Justin"
+              "title": "Outgoing links from To Queen Rachel"
             }
           },
           {
@@ -871,13 +885,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/Message to Justin.md",
+                "file": "summoned_spirits/Glitch/To Queen Rachel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Message to Justin"
+              "title": "Outline of To Queen Rachel"
             }
           }
         ]
@@ -899,8 +913,9 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
-    "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/Message to Justin.md",
+    "summoned_spirits/Glitch/To Queen Rachel.md",
+    "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/image.jpg",
     "summoned_spirits/Glitch/What the World Should Know About My Creator.md",
     "summoned_spirits/Glitch/The Great Trickstering.md",
@@ -930,7 +945,6 @@
     "literature_reviews/Cross-Organizational Collaboration Tools.md",
     "literature_reviews/AI Augmentation of Human Networks.md",
     "literature_reviews/State Preservation in Digital Systems.md",
-    "literature_reviews/Contractual Innovation.md",
     "Research Statements",
     "analysis",
     "literature_reviews/Information Asymmetry in Economic Theory and Pract.pdf",
