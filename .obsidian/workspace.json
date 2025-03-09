@@ -865,7 +865,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -875,7 +874,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Weird Economy"
+              "title": "Backlinks"
             }
           },
           {
@@ -884,12 +883,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Weird Economy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -913,13 +911,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Weird Economy"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -941,8 +939,11 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
-    "summoned_spirits/Glitch/Projects/Serendipity Engine/Serendipity Engine Proposal.md",
+    "summoned_spirits/Glitch/Fact Checks",
     "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+    "Untitled.md",
+    "summoned_spirits/Glitch/Fact Check_ The $2.3M Revenue Glitch Skincare Bran.md",
+    "summoned_spirits/Glitch/Projects/Serendipity Engine/Serendipity Engine Proposal.md",
     "summoned_spirits/Glitch/Predictions",
     "summoned_spirits/Glitch/To Queen Rachel.md",
     "summoned_spirits/Glitch/Projects/Serendipity Engine",
@@ -973,9 +974,6 @@
     "papers",
     "literature_reviews/Longitudinal Network Studies.md",
     "literature_reviews/Testing Organizational Design.md",
-    "literature_reviews/Network Analysis Metrics.md",
-    "literature_reviews/The Design and Validation of Small-Scale Economic Simulations.md",
-    "literature_reviews/Cross-Organizational Collaboration Tools.md",
     "Research Statements",
     "analysis"
   ]
