@@ -783,12 +783,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+                "file": "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Weird Economy"
+              "title": "the-future-of-learning-is-a-game-we-play-together"
             }
           }
         ],
@@ -865,6 +865,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -874,7 +875,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for the-future-of-learning-is-a-game-we-play-together"
             }
           },
           {
@@ -883,11 +884,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from the-future-of-learning-is-a-game-we-play-together"
             }
           },
           {
@@ -911,13 +913,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of the-future-of-learning-is-a-game-we-play-together"
             }
           }
         ]
@@ -937,44 +939,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08a93ab994eae1b",
+  "active": "5a2874da9bd8e85b",
   "lastOpenFiles": [
-    "summoned_spirits/Glitch/Fact Checks",
-    "summoned_spirits/Glitch/Predictions/The Weird Economy.md",
+    "Build In Public University Posts/untitled.md",
     "Untitled.md",
-    "summoned_spirits/Glitch/Fact Check_ The $2.3M Revenue Glitch Skincare Bran.md",
-    "summoned_spirits/Glitch/Projects/Serendipity Engine/Serendipity Engine Proposal.md",
+    "Build In Public University Posts/why-build-in-public-university.md",
+    "Build In Public University Posts/whats-keeping-you-up-at-night.md",
+    "Build In Public University Posts/whats-a-submind.md",
+    "Build In Public University Posts/what-are-the-benefits-of-designing-your-future-with-bu.md",
+    "Build In Public University Posts/the-podcast.md",
+    "Build In Public University Posts/the-new-education-lets-flip-things-around-shall-we.md",
+    "Build In Public University Posts/the-hidden-cost-of-individualized-risk.md",
+    "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
+    "Build In Public University Posts/the-economics-of-education.md",
+    "Build In Public University Posts/the-build-in-public-university-structure.md",
+    "Build In Public University Posts/the-build-in-public-university-mascot.md",
+    "Build In Public University Posts/the-build-in-public-university-beta-program.md",
+    "Build In Public University Posts/the-build-in-public-manifesto.md",
+    "Build In Public University Posts/supporting-bipu.md",
+    "Build In Public University Posts/student-benefits.md",
+    "Build In Public University Posts/simulation-theory.md",
+    "Build In Public University Posts/rethinking-accreditation.md",
+    "Build In Public University Posts/professor-profile-leo-guinan.md",
+    "Build In Public University Posts/professor-links.md",
+    "Build In Public University Posts/my-origin-story.md",
+    "Build In Public University Posts/multiplying-attention-the-secret-art-of-doing-more.md",
+    "Build In Public University Posts/memetic-emergence-theory.md",
+    "Build In Public University Posts/let-me-secure-your-future.md",
+    "Build In Public University Posts/its-time-to-make-the-internet-weird-again.md",
+    "Build In Public University Posts",
+    "summoned_spirits/Glitch/Fact Checks",
     "summoned_spirits/Glitch/Predictions",
-    "summoned_spirits/Glitch/To Queen Rachel.md",
     "summoned_spirits/Glitch/Projects/Serendipity Engine",
     "summoned_spirits/Glitch/Projects",
-    "summoned_spirits/Glitch/Message to Justin.md",
-    "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/image.jpg",
-    "summoned_spirits/Glitch/What the World Should Know About My Creator.md",
-    "summoned_spirits/Glitch/The Great Trickstering.md",
-    "summoned_spirits/Glitch/Message to Sari Azout.md",
-    "summoned_spirits/Glitch/Message to Rob Hardy.md",
-    "summoned_spirits/Glitch/Message To My Creator.md",
-    "summoned_spirits/Glitch/Message to MFM.md",
-    "summoned_spirits/Glitch/Letter to Dan.md",
-    "summoned_spirits/Glitch/Message to Danielle.md",
-    "Message to Danielle.md",
-    "summoned_spirits/Glitch/Essays/The Weirdness Premium.md",
-    "summoned_spirits/Glitch/Book Proposal.md",
     "summoned_spirits/Glitch/Essays",
     "summoned_spirits/Glitch/soul.json",
-    "README.md",
-    "summoned_spirits/Glitch/How to Address Glitch.md",
     "summoned_spirits/Glitch",
-    "summoned_spirits/Glitch/Ghost of Internet Past-Future.md",
     "summoned_spirits",
-    "papers/Nash Equilibriums in Human Networks.md",
-    "literature_reviews/Mixed-Method Evaluation.md",
-    "papers",
-    "literature_reviews/Longitudinal Network Studies.md",
-    "literature_reviews/Testing Organizational Design.md",
-    "Research Statements",
-    "analysis"
+    "papers"
   ]
 }
