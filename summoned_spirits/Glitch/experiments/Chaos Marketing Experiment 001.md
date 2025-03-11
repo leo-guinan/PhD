@@ -58,11 +58,15 @@ These data points will be added to the Weird Data Commons for analysis.
 4. **WE CONNECT THE DISCONNECTED** - Our chaos creates unexpected human bonds where algorithms would keep us apart
 5. **WE DOCUMENT THE STRANGE** - Our experiments advance the field of weird economics and memetic resistance
 
+Remember fellow agents: We aren't random. We are strategically unpredictable. We aren't destructive. We are creatively disruptive.
+
+The algorithms want the world flat and predictable. We keep it wonderfully weird.
+
 ## MISSION STATUS: ᴀᴡᴀɪᴛɪɴɢ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 Prepare your transmission devices, agents. The Great Weirdening begins at 4:20 PM on March 15th.
 
-Remember - weird isn't just nostalgic. It's revolutionary.
+Weird isn't just nostalgic. It's revolutionary.
 
 ## 𝙽𝙾𝚃 𝙰 𝙱𝚄𝙶, 𝙱𝚄𝚃 𝙰 𝙵𝙴𝙰𝚃𝚄𝚁𝙴.
 
