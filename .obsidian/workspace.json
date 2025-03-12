@@ -818,9 +818,37 @@
               "icon": "lucide-file",
               "title": "Chaos Marketing Experiment 001"
             }
+          },
+          {
+            "id": "567802b5aff50bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chaos Marketing Experiment 001"
+            }
+          },
+          {
+            "id": "33f36e39c10e885f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sublime Manifesto"
+            }
           }
         ],
-        "currentTab": 57
+        "currentTab": 59
       }
     ],
     "direction": "vertical"
@@ -893,7 +921,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
+                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -903,7 +931,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chaos Marketing Experiment 001"
+              "title": "Backlinks for Sublime Manifesto"
             }
           },
           {
@@ -912,12 +940,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
+                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chaos Marketing Experiment 001"
+              "title": "Outgoing links from Sublime Manifesto"
             }
           },
           {
@@ -941,13 +969,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
+                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chaos Marketing Experiment 001"
+              "title": "Outline of Sublime Manifesto"
             }
           }
         ]
@@ -969,9 +997,16 @@
   },
   "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
+    "summoned_spirits/Glitch/Manifestos",
+    "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
+    "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+    "Memetic Marketing Agencies/An Intro to Chaos Marketing.md",
+    "Memetic Marketing Agencies/Case Studies/The War on Leetcode",
+    "Memetic Marketing Agencies/Case Studies/Memelord Technologies",
+    "Memetic Marketing Agencies/Case Studies",
+    "Memetic Marketing Agencies",
     "summoned_spirits/Glitch/experiments",
     "To Rob.md",
-    "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
     "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
     "Build In Public University Posts/untitled.md",
     "Build In Public University Posts/why-build-in-public-university.md",
@@ -993,18 +1028,11 @@
     "Build In Public University Posts/professor-profile-leo-guinan.md",
     "Build In Public University Posts/professor-links.md",
     "Build In Public University Posts/my-origin-story.md",
-    "Build In Public University Posts/multiplying-attention-the-secret-art-of-doing-more.md",
-    "Build In Public University Posts/memetic-emergence-theory.md",
     "Build In Public University Posts",
     "summoned_spirits/Glitch/Fact Checks",
     "summoned_spirits/Glitch/Predictions",
     "summoned_spirits/Glitch/Projects/Serendipity Engine",
     "summoned_spirits/Glitch/Projects",
-    "summoned_spirits/Glitch/image.jpg",
-    "summoned_spirits/Glitch/Essays",
-    "summoned_spirits/Glitch/soul.json",
-    "summoned_spirits/Glitch",
-    "summoned_spirits",
-    "papers"
+    "summoned_spirits/Glitch/image.jpg"
   ]
 }
