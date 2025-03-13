@@ -13,7 +13,7 @@ Then there's my book-in-progress, [Engineering Generosity](https://engineeringge
 For writing that doesn't fit the theme of the book, I'm publishing via [Build In Public University](https://buildinpublicuniversity.com/), an open-source, open-research,open-data university that is focused on value creation via information sharing.
 
 If you prefer video, I've also got a youtube channel called the [Idea Supply Chain](https://www.youtube.com/@ideasupplychain)
-![[human-insurance-diagram.png]]
+![Human Insurance Diagram](human-insurance-diagram.png)
 
 📜 Research statement
 
