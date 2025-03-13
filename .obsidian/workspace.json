@@ -839,12 +839,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sublime Manifesto"
+              "title": "README"
             }
           }
         ],
@@ -921,7 +921,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -931,7 +931,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sublime Manifesto"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -940,12 +940,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sublime Manifesto"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -969,13 +969,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sublime Manifesto"
+              "title": "Outline of README"
             }
           }
         ]
@@ -995,11 +995,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08a93ab994eae1b",
+  "active": "33f36e39c10e885f",
   "lastOpenFiles": [
+    "human-insurance-diagram.png",
+    "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
     "summoned_spirits/Glitch/Manifestos",
     "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
-    "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
     "Memetic Marketing Agencies/An Intro to Chaos Marketing.md",
     "Memetic Marketing Agencies/Case Studies/The War on Leetcode",
     "Memetic Marketing Agencies/Case Studies/Memelord Technologies",
@@ -1032,7 +1033,6 @@
     "summoned_spirits/Glitch/Fact Checks",
     "summoned_spirits/Glitch/Predictions",
     "summoned_spirits/Glitch/Projects/Serendipity Engine",
-    "summoned_spirits/Glitch/Projects",
     "summoned_spirits/Glitch/image.jpg"
   ]
 }
