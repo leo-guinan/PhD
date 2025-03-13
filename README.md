@@ -14,7 +14,7 @@ For writing that doesn't fit the theme of the book, I'm publishing via [Build In
 
 If you prefer video, I've also got a youtube channel called the [Idea Supply Chain](https://www.youtube.com/@ideasupplychain)
 ![Human Insurance Diagram](human-insurance-diagram.png)
-
+![Concept Development Flow](concept-development-flow.png)
 📜 Research statement
 
 Information has value that can be measured, modeled, and optimized. I'm developing frameworks to understand how people communicate about value and how this shapes economic systems. My research suggests humans are dramatically undervalued assets in our current economic models. We've pushed risk from institutions (designed to handle it) onto individuals (who aren't equipped for it). By studying memetic economics and time-value relationships, we can create more abundant systems that properly value human potential.
