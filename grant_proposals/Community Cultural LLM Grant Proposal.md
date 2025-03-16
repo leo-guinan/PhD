@@ -2,7 +2,7 @@
 
 ## **Executive Summary**
 
-We seek $40,000 to pilot a "Community Cultural Insurance" program that will partner with 1-2 distinct communities to create culturally-aligned language models that:
+We seek $50,000 to pilot a "Community Cultural Insurance" program that will partner with 1-2 distinct communities to create culturally-aligned language models that:
 
 1. Preserve and amplify authentic community voices  
 2. Develop AI products reflecting community values and knowledge  
