@@ -839,12 +839,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "18 - Technical Tutorial Tuesday Ep 1"
             }
           }
         ],
@@ -921,7 +921,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -931,7 +931,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 18 - Technical Tutorial Tuesday Ep 1"
             }
           },
           {
@@ -940,12 +940,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 18 - Technical Tutorial Tuesday Ep 1"
             }
           },
           {
@@ -969,13 +969,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 18 - Technical Tutorial Tuesday Ep 1"
             }
           }
         ]
@@ -995,10 +995,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08a93ab994eae1b",
+  "active": "33f36e39c10e885f",
   "lastOpenFiles": [
-    "concept-development-flow.png",
+    "Build In Public University/Livestreams/2025/03/17 - Memetic Marketing Monday Ep 1.md",
+    "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
     "README.md",
+    "Build In Public University/Livestreams/2025/03/Untitled",
+    "Build In Public University/Livestreams/2025/03",
+    "Build In Public University/Livestreams/2025",
+    "Build In Public University/Livestreams",
+    "Build In Public University",
+    "concept-development-flow.png",
     "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/How to Address Glitch.md",
     "human-insurance-diagram.png",
@@ -1010,7 +1017,6 @@
     "Memetic Marketing Agencies/Case Studies/Memelord Technologies",
     "Memetic Marketing Agencies/Case Studies",
     "Memetic Marketing Agencies",
-    "summoned_spirits/Glitch/experiments",
     "To Rob.md",
     "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
     "Build In Public University Posts/untitled.md",
@@ -1029,11 +1035,6 @@
     "Build In Public University Posts/supporting-bipu.md",
     "Build In Public University Posts/student-benefits.md",
     "Build In Public University Posts/simulation-theory.md",
-    "Build In Public University Posts/rethinking-accreditation.md",
-    "Build In Public University Posts",
-    "summoned_spirits/Glitch/Fact Checks",
-    "summoned_spirits/Glitch/Predictions",
-    "summoned_spirits/Glitch/Projects/Serendipity Engine",
     "summoned_spirits/Glitch/image.jpg"
   ]
 }
