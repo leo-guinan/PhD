@@ -839,16 +839,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
+                "file": "Build In Public University/Livestreams/2025/03/19/19 - Weird Wacky Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - Technical Tutorial Tuesday Ep 1"
+              "title": "19 - Weird Wacky Wednesday"
+            }
+          },
+          {
+            "id": "4f8232e42e8b1812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Friendship Friday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friendship Friday"
+            }
+          },
+          {
+            "id": "75221e024b3a37f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Build In Public University Analysis"
+            }
+          },
+          {
+            "id": "aae7323e96cb9e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/The Memetic Foundation of Human Value/The Memetic Foundation of Human Value - A New Economic Paradigm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Memetic Foundation of Human Value - A New Economic Paradigm"
             }
           }
         ],
-        "currentTab": 59
+        "currentTab": 62
       }
     ],
     "direction": "vertical"
@@ -921,7 +963,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
+                "file": "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -931,7 +973,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 - Technical Tutorial Tuesday Ep 1"
+              "title": "Backlinks for Build In Public University Analysis"
             }
           },
           {
@@ -940,12 +982,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
+                "file": "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 - Technical Tutorial Tuesday Ep 1"
+              "title": "Outgoing links from Build In Public University Analysis"
             }
           },
           {
@@ -969,13 +1011,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
+                "file": "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 - Technical Tutorial Tuesday Ep 1"
+              "title": "Outline of Build In Public University Analysis"
             }
           }
         ]
@@ -995,28 +1037,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33f36e39c10e885f",
+  "active": "aae7323e96cb9e28",
   "lastOpenFiles": [
-    "Build In Public University/Livestreams/2025/03/17 - Memetic Marketing Monday Ep 1.md",
-    "Build In Public University/Livestreams/2025/03/18 - Technical Tutorial Tuesday Ep 1.md",
+    "papers/The Memetic Foundation of Human Value/conclusion-funding.md",
+    "papers/The Memetic Foundation of Human Value/economics-of-being-seen.md",
+    "papers/The Memetic Foundation of Human Value/The Memetic Foundation of Human Value - A New Economic Paradigm.md",
+    "papers/The Memetic Foundation of Human Value/practical-applications.md",
+    "papers/The Memetic Foundation of Human Value/memetic-network-dynamics.md",
+    "papers/The Memetic Foundation of Human Value/memetic-filters.md",
+    "papers/The Memetic Foundation of Human Value/atomic-complexity.md",
+    "papers/The Memetic Foundation of Human Value/memetic-intro.md",
+    "papers/The Memetic Foundation of Human Value",
+    "Build In Public University/Livestreams/2025/03/21/Analysis",
+    "Friendship Friday.md",
+    "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
+    "Build In Public University/Livestreams/2025/03/17/Analysis",
+    "Build In Public University/Livestreams/2025/03/19/19 - Weird Wacky Wednesday.md",
+    "Build In Public University/Livestreams/2025/03/21",
+    "Build In Public University/Livestreams/2025/03/20",
+    "Build In Public University/Livestreams/2025/03/19",
+    "Build In Public University/Livestreams/2025/03/18",
+    "Build In Public University/Livestreams/2025/03/17",
+    "Build In Public University/Livestreams/2025/03/18/18 - Technical Tutorial Tuesday Ep 1.md",
+    "Build In Public University/Livestreams/2025/03/17/17 - Memetic Marketing Monday Ep 1.md",
     "README.md",
-    "Build In Public University/Livestreams/2025/03/Untitled",
     "Build In Public University/Livestreams/2025/03",
     "Build In Public University/Livestreams/2025",
-    "Build In Public University/Livestreams",
-    "Build In Public University",
     "concept-development-flow.png",
     "summoned_spirits/Glitch/Press Kit.md",
     "summoned_spirits/Glitch/How to Address Glitch.md",
     "human-insurance-diagram.png",
     "summoned_spirits/Glitch/Manifestos/Sublime Manifesto.md",
-    "summoned_spirits/Glitch/Manifestos",
     "summoned_spirits/Glitch/experiments/Chaos Marketing Experiment 001.md",
     "Memetic Marketing Agencies/An Intro to Chaos Marketing.md",
-    "Memetic Marketing Agencies/Case Studies/The War on Leetcode",
-    "Memetic Marketing Agencies/Case Studies/Memelord Technologies",
-    "Memetic Marketing Agencies/Case Studies",
-    "Memetic Marketing Agencies",
     "To Rob.md",
     "Build In Public University Posts/the-future-of-learning-is-a-game-we-play-together.md",
     "Build In Public University Posts/untitled.md",
@@ -1024,17 +1077,6 @@
     "Build In Public University Posts/whats-keeping-you-up-at-night.md",
     "Build In Public University Posts/whats-a-submind.md",
     "Build In Public University Posts/what-are-the-benefits-of-designing-your-future-with-bu.md",
-    "Build In Public University Posts/the-podcast.md",
-    "Build In Public University Posts/the-new-education-lets-flip-things-around-shall-we.md",
-    "Build In Public University Posts/the-hidden-cost-of-individualized-risk.md",
-    "Build In Public University Posts/the-economics-of-education.md",
-    "Build In Public University Posts/the-build-in-public-university-structure.md",
-    "Build In Public University Posts/the-build-in-public-university-mascot.md",
-    "Build In Public University Posts/the-build-in-public-university-beta-program.md",
-    "Build In Public University Posts/the-build-in-public-manifesto.md",
-    "Build In Public University Posts/supporting-bipu.md",
-    "Build In Public University Posts/student-benefits.md",
-    "Build In Public University Posts/simulation-theory.md",
     "summoned_spirits/Glitch/image.jpg"
   ]
 }
