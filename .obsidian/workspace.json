@@ -907,12 +907,14 @@
             "id": "3134fbef62729faa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "papers/Realtime Research/Realtime-Research.pdf"
+                "file": "papers/Realtime Research/Beyond Publication.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Realtime-Research"
+              "icon": "lucide-file",
+              "title": "Beyond Publication"
             }
           }
         ],
@@ -1065,9 +1067,19 @@
   },
   "active": "3134fbef62729faa",
   "lastOpenFiles": [
+    "papers/Realtime Research/7. Conclusion.md",
+    "papers/Realtime Research/Beyond Publication.md",
+    "papers/Realtime Research/6. Transformative Implications Across Domains.md",
+    "papers/Realtime Research/5. Implementation Pathways for Real-Time Research.md",
+    "papers/Realtime Research/4. Hypercompetition as a Barrier to Effective Information Flow.md",
+    "papers/Realtime Research/3. Theoretical Framework.md",
+    "papers/Realtime Research/2. Challenge and Opportunity.md",
+    "papers/Realtime Research/1. Introduction.md",
+    "papers/Realtime Research/0. Executive Summary.md",
+    "papers/Realtime Research/draft1/Realtime-Research.pdf",
+    "papers/Realtime Research/draft1",
     "papers/Beyond the False Dichotomy/Beyond the False Dichotomy - A Framework for Rigorous Mysticism.md",
     "papers/Realtime Research",
-    "papers/Realtime Research/Realtime-Research.pdf",
     "papers/Beyond the False Dichotomy/8. Conclusion - The Memetic Moment.md",
     "papers/Beyond the False Dichotomy/7. Addressing Criticisms.md",
     "papers/Beyond the False Dichotomy/6. Practical Applications.md",
@@ -1085,21 +1097,12 @@
     "papers/Negative Externalities in Hyper competitive environments/8. Conclusion.md",
     "papers/Negative Externalities in Hyper competitive environments/7. Part 4 -  Implementation Through Human Insurance.md",
     "papers/Negative Externalities in Hyper competitive environments/6. Part 3 - Structural Solutions.md",
-    "papers/Negative Externalities in Hyper competitive environments/5. Part 2 - Negative Externalities of Hypercompetition.md",
-    "papers/Negative Externalities in Hyper competitive environments/4. Part 1 - The Mechanics of Hypercompetition.md",
-    "papers/Negative Externalities in Hyper competitive environments/3. Introduction.md",
-    "papers/Negative Externalities in Hyper competitive environments/2. Executive Summary.md",
-    "papers/Negative Externalities in Hyper competitive environments/1. Abstract.md",
-    "papers/The Personal CEO Mindset.md",
-    "papers/Negative Externalities in Hyper competitive environments/7. Part 4 - Implementation Through Human Insurance.md",
-    "papers/Negative Externalities in Hyper competitive environments/3. Intro.md",
     "papers/Negative Externalities in Hyper competitive environments",
     "mockup.html",
     "papers/Personal GTM",
     "papers/Beyond the False Dichotomy",
     "researchers",
     "papers/The Memetic Foundation of Human Value",
-    "Build In Public University/Livestreams/2025/03/21/Analysis",
     "concept-development-flow.png",
     "human-insurance-diagram.png",
     "summoned_spirits/Glitch/image.jpg"
