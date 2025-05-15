@@ -895,30 +895,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "researchers/Leo Guinan.md",
+                "file": "papers/Network Relativity/Abstract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leo Guinan"
-            }
-          },
-          {
-            "id": "3134fbef62729faa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Realtime Research/Beyond Publication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beyond Publication"
+              "title": "Abstract"
             }
           }
         ],
-        "currentTab": 64
+        "currentTab": 63
       }
     ],
     "direction": "vertical"
@@ -991,7 +977,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build In Public University/Livestreams/2025/03/21/Analysis/Build In Public University Analysis.md",
+                "file": "papers/Network Relativity/Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1001,7 +987,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Build In Public University Analysis"
+              "title": "Backlinks for Abstract"
             }
           },
           {
@@ -1065,44 +1051,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3134fbef62729faa",
+  "active": "8faa60df530715c4",
   "lastOpenFiles": [
-    "papers/Realtime Research/7. Conclusion.md",
+    "papers/Network Relativity/Executive Summary.md",
+    "papers/Network Relativity/Abstract.md",
+    "papers/Network Relativity/Part 1 - Introduction to Network Relativity.md",
+    "papers/Network Relativity/Part 11 - Conclusion - Toward Temporally Intelligent Networks.md",
+    "papers/Network Relativity/Part 10 - Future Research Directions.md",
+    "papers/Network Relativity/Part 8 - Empirical Validation Approaches.md",
+    "papers/Network Relativity/Part 9 - Limitations and Boundary Conditions in Network Relativity Theory.md",
+    "papers/Network Relativity/Part 7 - Connections to Other Theories and Frameworks.md",
+    "papers/Network Relativity/Part 6 - Implications for Collective Intelligence.md",
+    "papers/Network Relativity/Part 5 - Applications and Implementations.md",
+    "papers/Network Relativity/Part 4 -  Sub-Network Universes and Information Compression.md",
+    "papers/Network Relativity/Part 2 - The Calculus of Time.md",
+    "papers/Network Relativity/Part 3 - Core Phenomena of Network Relativity.md",
+    "papers/Network Relativity/Part 1 - A Formal Framework.md",
+    "papers/Network Relativity/Part 5 - Limitations and Boundary Conditions.md",
+    "papers/Network Relativity/Part 4 - Related Work and Theoretical Connections.md",
+    "papers/Network Relativity/Part 3 - Applications and Implications.md",
+    "papers/Network Relativity/Part 2 - Empirical Validation.md",
     "papers/Realtime Research/Beyond Publication.md",
+    "papers/Network Relativity",
+    "papers/Realtime Research/draft1/realtime-research.md",
+    "papers/Realtime Research/draft1/Realtime-Research.pdf",
+    "papers/Realtime Research/7. Conclusion.md",
     "papers/Realtime Research/6. Transformative Implications Across Domains.md",
     "papers/Realtime Research/5. Implementation Pathways for Real-Time Research.md",
     "papers/Realtime Research/4. Hypercompetition as a Barrier to Effective Information Flow.md",
     "papers/Realtime Research/3. Theoretical Framework.md",
     "papers/Realtime Research/2. Challenge and Opportunity.md",
-    "papers/Realtime Research/1. Introduction.md",
-    "papers/Realtime Research/0. Executive Summary.md",
-    "papers/Realtime Research/draft1/Realtime-Research.pdf",
     "papers/Realtime Research/draft1",
-    "papers/Beyond the False Dichotomy/Beyond the False Dichotomy - A Framework for Rigorous Mysticism.md",
     "papers/Realtime Research",
-    "papers/Beyond the False Dichotomy/8. Conclusion - The Memetic Moment.md",
-    "papers/Beyond the False Dichotomy/7. Addressing Criticisms.md",
-    "papers/Beyond the False Dichotomy/6. Practical Applications.md",
-    "papers/Beyond the False Dichotomy/5. Case Studies in Rigorous Mysticism.md",
-    "papers/Beyond the False Dichotomy/4. Elements of Rigorous Mysticism.md",
-    "papers/Beyond the False Dichotomy/3. The Crisis in Traditional Epistemology.md",
-    "papers/Beyond the False Dichotomy/2. What Makes Something \"Mystical\".md",
-    "papers/Beyond the False Dichotomy/1. Introduction.md",
-    "papers/Beyond the False Dichotomy/0. Beyond the False Dichotomy - A Framework for Rigorous Mysticism.md",
-    "papers/8. The Future of Knowledge Production.md",
-    "literature_reviews/Value Flow in Networks.md",
-    "papers/Negative Externalities in Hyper competitive environments/Negative Externalities in Hypercompetitive Environments.md",
     "Rigourous Mysticism",
-    "papers/The Memetic Foundation of Human Value/The Memetic Foundation of Human Value - A New Economic Paradigm.md",
-    "papers/Negative Externalities in Hyper competitive environments/8. Conclusion.md",
-    "papers/Negative Externalities in Hyper competitive environments/7. Part 4 -  Implementation Through Human Insurance.md",
-    "papers/Negative Externalities in Hyper competitive environments/6. Part 3 - Structural Solutions.md",
     "papers/Negative Externalities in Hyper competitive environments",
     "mockup.html",
     "papers/Personal GTM",
     "papers/Beyond the False Dichotomy",
     "researchers",
-    "papers/The Memetic Foundation of Human Value",
     "concept-development-flow.png",
     "human-insurance-diagram.png",
     "summoned_spirits/Glitch/image.jpg"
