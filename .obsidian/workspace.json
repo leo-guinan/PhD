@@ -895,12 +895,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Network Relativity/Abstract.md",
+                "file": "papers/Network Relativity/Network Relativity Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract"
+              "title": "Network Relativity Theory"
             }
           }
         ],
@@ -977,7 +977,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/Network Relativity/Abstract.md",
+                "file": "papers/Network Relativity/Network Relativity Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -987,7 +987,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abstract"
+              "title": "Backlinks for Network Relativity Theory"
             }
           },
           {
@@ -1053,25 +1053,26 @@
   },
   "active": "8faa60df530715c4",
   "lastOpenFiles": [
-    "papers/Network Relativity/Executive Summary.md",
-    "papers/Network Relativity/Abstract.md",
-    "papers/Network Relativity/Part 1 - Introduction to Network Relativity.md",
     "papers/Network Relativity/Part 11 - Conclusion - Toward Temporally Intelligent Networks.md",
+    "papers/Network Relativity/Network Relativity Theory.md",
     "papers/Network Relativity/Part 10 - Future Research Directions.md",
-    "papers/Network Relativity/Part 8 - Empirical Validation Approaches.md",
     "papers/Network Relativity/Part 9 - Limitations and Boundary Conditions in Network Relativity Theory.md",
+    "papers/Network Relativity/Part 8 - Empirical Validation Approaches.md",
     "papers/Network Relativity/Part 7 - Connections to Other Theories and Frameworks.md",
     "papers/Network Relativity/Part 6 - Implications for Collective Intelligence.md",
+    "papers/Network Relativity/Part 3 - Core Phenomena of Network Relativity.md",
+    "papers/Network Relativity/Part 2 - The Calculus of Time.md",
     "papers/Network Relativity/Part 5 - Applications and Implementations.md",
     "papers/Network Relativity/Part 4 -  Sub-Network Universes and Information Compression.md",
-    "papers/Network Relativity/Part 2 - The Calculus of Time.md",
-    "papers/Network Relativity/Part 3 - Core Phenomena of Network Relativity.md",
+    "papers/Network Relativity/Part 1 - Introduction to Network Relativity.md",
+    "papers/Network Relativity/Executive Summary.md",
+    "papers/Network Relativity/Abstract.md",
+    "papers/Realtime Research/Beyond Publication.md",
     "papers/Network Relativity/Part 1 - A Formal Framework.md",
     "papers/Network Relativity/Part 5 - Limitations and Boundary Conditions.md",
     "papers/Network Relativity/Part 4 - Related Work and Theoretical Connections.md",
     "papers/Network Relativity/Part 3 - Applications and Implications.md",
     "papers/Network Relativity/Part 2 - Empirical Validation.md",
-    "papers/Realtime Research/Beyond Publication.md",
     "papers/Network Relativity",
     "papers/Realtime Research/draft1/realtime-research.md",
     "papers/Realtime Research/draft1/Realtime-Research.pdf",
@@ -1080,7 +1081,6 @@
     "papers/Realtime Research/5. Implementation Pathways for Real-Time Research.md",
     "papers/Realtime Research/4. Hypercompetition as a Barrier to Effective Information Flow.md",
     "papers/Realtime Research/3. Theoretical Framework.md",
-    "papers/Realtime Research/2. Challenge and Opportunity.md",
     "papers/Realtime Research/draft1",
     "papers/Realtime Research",
     "Rigourous Mysticism",
