@@ -895,16 +895,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Network Relativity/Network Relativity Theory.md",
+                "file": "papers/Network Relativity/Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Relativity Theory"
+              "title": "Executive Summary"
+            }
+          },
+          {
+            "id": "3bb4348632399796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/Time Violence/Time Violence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Violence"
             }
           }
         ],
-        "currentTab": 63
+        "currentTab": 64
       }
     ],
     "direction": "vertical"
@@ -1051,8 +1065,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8faa60df530715c4",
+  "active": "a08a93ab994eae1b",
   "lastOpenFiles": [
+    "papers/Network Relativity/Executive Summary.md",
+    "papers/Time Violence/Time Violence.md",
+    "papers/Time Violence",
     "papers/Network Relativity/Part 2 - The Calculus of Time.md",
     "papers/Network Relativity/Network Relativity Theory.md",
     "papers/Network Relativity/Part 11 - Conclusion - Toward Temporally Intelligent Networks.md",
@@ -1065,7 +1082,6 @@
     "papers/Network Relativity/Part 5 - Applications and Implementations.md",
     "papers/Network Relativity/Part 4 -  Sub-Network Universes and Information Compression.md",
     "papers/Network Relativity/Part 1 - Introduction to Network Relativity.md",
-    "papers/Network Relativity/Executive Summary.md",
     "papers/Network Relativity/Abstract.md",
     "papers/Realtime Research/Beyond Publication.md",
     "papers/Network Relativity/Part 1 - A Formal Framework.md",
@@ -1080,7 +1096,6 @@
     "papers/Realtime Research/6. Transformative Implications Across Domains.md",
     "papers/Realtime Research/5. Implementation Pathways for Real-Time Research.md",
     "papers/Realtime Research/4. Hypercompetition as a Barrier to Effective Information Flow.md",
-    "papers/Realtime Research/3. Theoretical Framework.md",
     "papers/Realtime Research/draft1",
     "papers/Realtime Research",
     "Rigourous Mysticism",
@@ -1088,7 +1103,6 @@
     "mockup.html",
     "papers/Personal GTM",
     "papers/Beyond the False Dichotomy",
-    "researchers",
     "concept-development-flow.png",
     "human-insurance-diagram.png",
     "summoned_spirits/Glitch/image.jpg"
