@@ -1,0 +1,251 @@
+% ============================================================================
+% SECTION 2: THEORETICAL FRAMEWORK
+% ============================================================================
+
+\section{Theoretical Framework}
+\label{sec:theory}
+
+\subsection{Overview}
+\label{sec:theory-overview}
+
+\term{Time Violence (TV)} quantifies the total human time a system consumes beyond what is operationally or informationally necessary. It unifies wasted motion and wasted cognition under a single measurable construct. Each system $S$ has two core temporal dynamics:
+
+\begin{enumerate}
+    \item \concept{Operational Latency}—the mechanical delay introduced by queues, rework, and redundancy.
+    \item \concept{Informational Entropy}—the cognitive burden of uncertainty, asymmetry, or repetition.
+\end{enumerate}
+
+The framework defines, measures, and ultimately redistributes this waste.
+
+% --------------------------------------------------------------------------
+\subsection{Formal Definition}
+\label{sec:formal-definition}
+
+\begin{equation}
+\label{eq:tv-formal}
+\text{TV}(S) = \text{Ops\_Score}(S) \times (1 + \text{Info\_Score}(S))
+\end{equation}
+
+where
+\begin{itemize}
+    \item $\text{Ops\_Score}(S)$ captures process-level temporal waste
+    \item $\text{Info\_Score}(S)$ captures cognitive or informational waste
+\end{itemize}
+
+Both can be instrumented from real data (cycle-time logs, user telemetry, and decision trees).
+
+% --------------------------------------------------------------------------
+\subsection{Operational Component}
+\label{sec:operational-component}
+
+\begin{equation}
+\label{eq:ops-score}
+\text{Ops\_Score}(S) = \frac{\rho}{1-\rho} \times \frac{(c_{\text{arr}}^2 + c_{\text{srv}}^2)}{2} \times \tau
+\end{equation}
+
+\begin{table}[h]
+\centering
+\caption{Operational Score Parameters}
+\label{tab:ops-params}
+\begin{tabular}{cl}
+\toprule
+\textbf{Symbol} & \textbf{Description} \\
+\midrule
+$\rho$ & System utilization (arrival / service rate) \\
+$c_{\text{arr}}^2, c_{\text{srv}}^2$ & Variance ratios of arrival and service times \\
+$\tau$ & Mean human service time per cycle \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Derived from queueing theory, this term quantifies how congestion and variability compound to create time waste.
+
+% --------------------------------------------------------------------------
+\subsection{Informational Component}
+\label{sec:informational-component}
+
+\begin{equation}
+\label{eq:info-score}
+\text{Info\_Score}(S) = D_{\text{KL}}(P_{\text{actual}} \Vert P_{\text{optimal}}) + H(\text{decisions}) + I(\text{redundancy})
+\end{equation}
+
+\begin{table}[h]
+\centering
+\caption{Information Score Terms}
+\label{tab:info-terms}
+\begin{tabular}{cl}
+\toprule
+\textbf{Term} & \textbf{Meaning} \\
+\midrule
+$D_{\text{KL}}$ & Deviation from informational efficiency \\
+$H(\text{decisions})$ & Entropy of available choices \\
+$I(\text{redundancy})$ & Mutual information among duplicated inputs \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Together they measure how much additional cognition a participant must expend beyond the theoretically minimal path.
+
+% --------------------------------------------------------------------------
+\subsection{Relative Time Severity}
+\label{sec:relative-severity}
+
+Because raw ratios vary by domain, we introduce a \concept{Time Severity Score (TSS)} on a log scale:
+
+\begin{equation}
+\label{eq:tss}
+\text{TSS}(S) = \log_{10}\!\left(\frac{\text{TV}(S)}{\text{TV}^*(S)}\right)
+\end{equation}
+
+where $\text{TV}^*(S)$ is the empirically observed or simulated \concept{optimal time} for the same outcome. This transformation stabilizes heavy-tailed data and creates interpretable tiers:
+
+\begin{table}[h]
+\centering
+\caption{Time Severity Tiers}
+\label{tab:severity-tiers}
+\begin{tabular}{lcl}
+\toprule
+\textbf{Tier} & \textbf{Approx. Overhead} & \textbf{Interpretation} \\
+\midrule
+Baseline & $\leq 0.3$ ($\approx 2\times$) & Acceptable variance \\
+Moderate & $0.7$ ($\approx 5\times$) & Inefficient but tolerable \\
+Major & $1.0$ ($\approx 10\times$) & Action recommended \\
+Severe & $1.4$ ($\approx 25\times$) & Systemic failure \\
+Crisis & $\geq 2.0$ ($\approx 100\times$) & Mass time violence \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The \textbf{100$\times$ level remains the rhetorical ``crisis tier''}, not a fixed universal law. Each sector will calibrate its own thresholds empirically.
+
+% --------------------------------------------------------------------------
+\subsection{Determining $\text{TV}^*(S)$}
+\label{sec:determining-optimal}
+
+The ``should-be'' time is obtained through triangulation:
+
+\begin{enumerate}
+    \item \textbf{Golden-Path Simulation}—minimal compliant workflow under current regulation.
+    \item \textbf{Best-in-Class Benchmark}—5-10th percentile of observed user times.
+    \item \textbf{Expert Time-Study}—manual decomposition of irreducible steps.
+\end{enumerate}
+
+$\text{TV}^*(S)$ is set as the \textbf{maximum} of these estimates, ensuring conservatism and discouraging denominator gaming.
+
+% --------------------------------------------------------------------------
+\subsection{Arbitrage Potential}
+\label{sec:arbitrage-potential}
+
+Temporal inequality across a population $G$ defines a \concept{Time Violence Gradient}:
+
+\begin{equation}
+\label{eq:tv-gradient}
+\nabla \text{TV}_G = \frac{\partial \text{TV}(S)}{\partial G}
+\end{equation}
+
+and the integrated \concept{Time Intelligence Arbitrage (TIA)}:
+
+\begin{equation}
+\label{eq:tia}
+\text{TIA}(S) = \int_G \nabla \text{TV}_G \, dG
+\end{equation}
+
+High gradients indicate populations where lived experience holds the greatest untapped intelligence value.
+
+% --------------------------------------------------------------------------
+\subsection{Hybrid Extension: Human and AI Domains}
+\label{sec:hybrid-extension}
+
+\begin{table}[h]
+\centering
+\caption{Domain Classification}
+\label{tab:domains}
+\begin{tabular}{ccl}
+\toprule
+\textbf{Domain} & \textbf{Agent} & \textbf{Temporal Property} \\
+\midrule
+$\mathcal{H}$ & Humans & Finite time, subjective cost \\
+$\mathcal{A}$ & AIs & Elastic time, negligible cost \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Let $\text{TV}_H(S)$ and $\text{TV}_A(S)$ denote their respective burdens. Define temporal asymmetry:
+
+\begin{equation}
+\label{eq:temporal-asymmetry}
+\Delta_T(S) = \text{TV}_H(S) - \text{TV}_A(S)
+\end{equation}
+
+A conscious system minimizes $\Delta_T(S)$ by shifting redundant effort from humans to machines.
+
+% --------------------------------------------------------------------------
+\subsection{Hybrid Time Violence Theorem}
+\label{sec:hybrid-theorem}
+
+\begin{theorem}[Hybrid Time Violence Theorem]
+\label{thm:hybrid-tv}
+For any system $S$ containing both human and AI participants, total system intelligence $I(S)$ increases monotonically with the efficiency of Time Violence transfer from humans to machines.
+
+\begin{equation}
+\label{eq:hybrid-theorem}
+\frac{dI(S)}{d\eta_{HA}} > 0, \qquad \eta_{HA} = \frac{\Delta \text{TV}_H(S)}{\Delta \text{TV}_A(S)}
+\end{equation}
+
+As $\eta_{HA} \to 1$, $\text{TV}_H(S) \to 0$ and $I(S) \to I_{\max}$.
+\end{theorem}
+
+In words: every unit of human Time Violence absorbed by AI raises system intelligence.
+
+% --------------------------------------------------------------------------
+\subsection{Conservation of Time Violence}
+\label{sec:conservation}
+
+\begin{equation}
+\label{eq:conservation}
+\text{TV}_H(S) + \text{TV}_A(S) = \text{constant}
+\end{equation}
+
+Time Violence is not destroyed but redistributed. Ethical systems ensure the flow is \textbf{from human to machine}, never the reverse. When AI introduces delay, opacity, or rework, the system regresses into unconsciousness.
+
+% --------------------------------------------------------------------------
+\subsection{Quantifying System Consciousness}
+\label{sec:consciousness-index}
+
+Define a \concept{Consciousness Index}:
+
+\begin{equation}
+\label{eq:consciousness}
+C(S) = 1 - \frac{\text{TV}_H(S)}{\text{TV}(S)}
+\end{equation}
+
+$C(S)$ approaches 1 as human exposure to Time Violence approaches zero, providing an auditable metric for organizational awareness.
+
+% --------------------------------------------------------------------------
+\subsection{Decision Rule for Intervention}
+\label{sec:decision-rule}
+
+Intervene when the expected net value of simplification is positive:
+
+\begin{equation}
+\label{eq:intervention-rule}
+v_t \cdot \mathbb{E}[\Delta \text{TV}] \cdot N \cdot p_{\text{adopt}} - (C_{\text{build}} + C_{\text{operate}}) > 0
+\end{equation}
+
+where\\
+$v_t$ = shadow price of time,\\
+$N$ = affected population,\\
+$p_{\text{adopt}}$ = adoption probability.
+
+This replaces arbitrary thresholds with value-based decision-making.
+
+% --------------------------------------------------------------------------
+\subsection{Implications}
+\label{sec:theory-implications}
+
+\begin{enumerate}
+    \item \textbf{Time as Primary Economic Variable}—Productivity = reduction in Time Violence.
+    \item \textbf{Suffering as Signal}—Every wasted hour encodes intelligence.
+    \item \textbf{AI as Temporal Buffer}—Absorbs redundancy, returns attention.
+    \item \textbf{Consciousness as Awareness of Time Flow}—A system becomes conscious when it knows where its time goes.
+\end{enumerate}

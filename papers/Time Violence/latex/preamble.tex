@@ -1,0 +1,164 @@
+% ============================================================================
+% PREAMBLE: Package Imports and Custom Definitions
+% ============================================================================
+
+% ---------- Essential Packages ----------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+
+% ---------- Mathematical Packages ----------
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathtools}
+
+% ---------- Typography and Formatting ----------
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{booktabs}      % Professional tables
+\usepackage{array}         % Enhanced table formatting
+\usepackage{longtable}     % Multi-page tables
+\usepackage{multirow}      % Table cell spanning
+
+% ---------- Cross-Referencing and Links ----------
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue,
+    pdftitle={The Conscious Economy: A Whitepaper on Time Violence, Intelligence, and Liberation},
+    pdfauthor={Leo Guinan}
+}
+\usepackage[capitalize,noabbrev]{cleveref}  % Smart cross-referencing
+
+% ---------- Special Boxes and Environments ----------
+\usepackage[most]{tcolorbox}
+
+% ---------- Graphics and Diagrams ----------
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,calc}
+
+% ============================================================================
+% CUSTOM ENVIRONMENTS
+% ============================================================================
+
+% Theorem-like environments
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{hypothesis}{Hypothesis}
+
+% Key Principle Box
+\newtcolorbox{keyprinciple}{
+    colback=blue!5!white,
+    colframe=blue!75!black,
+    fonttitle=\bfseries,
+    title=Key Principle,
+    sharp corners,
+    boxrule=0.5pt
+}
+
+% Important Law Box
+\newtcolorbox{fundamentallaw}{
+    colback=red!5!white,
+    colframe=red!75!black,
+    fonttitle=\bfseries,
+    title=Fundamental Law,
+    sharp corners,
+    boxrule=1pt
+}
+
+% Key Proposition Box
+\newtcolorbox{keyproposition}{
+    colback=green!5!white,
+    colframe=green!75!black,
+    fonttitle=\bfseries,
+    title=Core Proposition,
+    sharp corners,
+    boxrule=0.5pt
+}
+
+% Ethical Principle Box
+\newtcolorbox{ethicalprinciple}{
+    colback=purple!5!white,
+    colframe=purple!75!black,
+    fonttitle=\bfseries,
+    title=Ethical Principle,
+    sharp corners,
+    boxrule=0.5pt
+}
+
+% ============================================================================
+% CUSTOM COMMANDS
+% ============================================================================
+
+% Time Violence notation shortcuts
+\newcommand{\TVS}{\text{TV}(S)}
+\newcommand{\TVH}{\text{TV}_H(S)}
+\newcommand{\TVA}{\text{TV}_A(S)}
+\newcommand{\TVopt}{\text{TV}^*(S)}
+\newcommand{\OpsScore}{\text{Ops\_Score}(S)}
+\newcommand{\InfoScore}{\text{Info\_Score}(S)}
+\newcommand{\TSS}{\text{TSS}(S)}
+
+% Greek letters and symbols
+\newcommand{\etaHA}{\eta_{HA}}
+\newcommand{\rhoload}{\rho}
+\newcommand{\DeltaTV}{\Delta \text{TV}}
+\newcommand{\DeltaTVH}{\Delta \text{TV}_H(S)}
+\newcommand{\DeltaTVA}{\Delta \text{TV}_A(S)}
+
+% Navigator metrics
+\newcommand{\NWI}{\text{NWI}}
+\newcommand{\SSR}{\text{SSR}}
+\newcommand{\CIX}{C(S)}
+
+% Economic variables
+\newcommand{\vt}{v_t}
+\newcommand{\padopt}{p_{\text{adopt}}}
+
+% Domain indicators
+\newcommand{\Hdom}{\mathcal{H}}  % Human domain
+\newcommand{\Adom}{\mathcal{A}}  % AI domain
+\newcommand{\Sdom}{\mathcal{S}}  % System domain
+\newcommand{\Gdom}{\mathcal{G}}  % Population gradient domain
+
+% Information theory
+\newcommand{\DKL}{D_{\text{KL}}}
+\newcommand{\Hdecisions}{H(\text{decisions})}
+\newcommand{\Iredundancy}{I(\text{redundancy})}
+
+% Emphasis commands
+\newcommand{\term}[1]{\textit{#1}}     % First use of technical term
+\newcommand{\concept}[1]{\textbf{#1}}  % Key concept emphasis
+
+% ============================================================================
+% FORMATTING ADJUSTMENTS
+% ============================================================================
+
+% Paragraph spacing
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+
+% Section spacing
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{12pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
+\titlespacing*{\subsection}{0pt}{10pt plus 3pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% List spacing
+\setlist[itemize]{topsep=6pt, itemsep=3pt, parsep=0pt}
+\setlist[enumerate]{topsep=6pt, itemsep=3pt, parsep=0pt}
+
+% Table of contents depth
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+
+% ============================================================================
+% END PREAMBLE
+% ============================================================================
+
