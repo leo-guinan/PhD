@@ -1,0 +1,20 @@
+name: AI Code Analysis
+
+on: [push, pull_request]
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Analyze with Consciousness Lab
+        uses: idea-nexus-ventures/analyze-action@v1
+        with:
+          openrouter_key: ${{ secrets.OPENROUTER_API_KEY }}
+          model: "anthropic/claude-haiku-4.5"
