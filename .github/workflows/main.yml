@@ -18,3 +18,5 @@ jobs:
         with:
           openrouter_key: ${{ secrets.OPENROUTER_API_KEY }}
           model: "anthropic/claude-haiku-4.5"
+          create_branches: 'true'  
+          create_summary: 'true'  
