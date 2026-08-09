@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>When the Bot Fails — Cats vs Cards</title>
+<style>
+  :root{--ink:#202522;--muted:#68716a;--paper:#f4f0e7;--card:#fffdf7;--orange:#ef6c3a;--blue:#315f73;--green:#496b50;--line:#d8d1c3;--shadow:0 16px 45px rgba(40,35,25,.10)}
+  *{box-sizing:border-box} html,body{margin:0;background:#252a27;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  body{min-height:100vh;display:grid;place-items:center;overflow:hidden}
+  .deck{width:min(100vw,177.78vh);height:min(56.25vw,100vh);position:relative;background:var(--paper);overflow:hidden}
+  .slide{position:absolute;inset:0;padding:7.5% 8%;display:none;overflow:hidden}
+  .slide.active{display:block}.kicker{font:700 .82rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}
+  h1,h2,h3,p{margin:0} h1{font-size:clamp(2.4rem,6.1vw,7rem);line-height:.94;letter-spacing:-.065em;max-width:900px} h2{font-size:clamp(2rem,4.2vw,5rem);line-height:.96;letter-spacing:-.055em;max-width:1000px} h3{font-size:clamp(1rem,1.8vw,2rem);line-height:1.1} p,li{font-size:clamp(.92rem,1.55vw,1.7rem);line-height:1.35}.dek{margin-top:2rem;max-width:700px;color:var(--muted)}
+  .meta{position:absolute;left:8%;bottom:5.5%;font:600 .76rem ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--muted);letter-spacing:.06em}.num{position:absolute;right:8%;bottom:5.5%;font:700 .8rem ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--muted)}
+  .rule{height:1px;background:var(--line);margin:2.2rem 0}.grid{display:grid;gap:1.3rem}.two{grid-template-columns:1fr 1fr}.three{grid-template-columns:repeat(3,1fr)}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:1.5rem;box-shadow:var(--shadow)}.panel p{margin-top:.7rem;color:var(--muted)}
+  .tag{display:inline-block;border:1px solid var(--line);border-radius:99px;padding:.5rem .75rem;font:700 .72rem ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--muted);margin-bottom:1rem}.orange{color:var(--orange)}.blue{color:var(--blue)}.green{color:var(--green)}
+  .cat-wrap{position:absolute;right:9%;bottom:9%;width:34%;height:65%;display:grid;place-items:center}.cat{font-family:ui-monospace,monospace;font-size:clamp(1.4rem,3.2vw,4rem);line-height:1.05;color:var(--orange);white-space:pre;transform:rotate(-5deg)}.cat-note{position:absolute;right:0;bottom:0;max-width:210px;font-size:.8rem;color:var(--muted);text-align:right}
+  .cards{position:absolute;right:8%;top:22%;width:34%;display:grid;gap:.9rem;transform:rotate(3deg)}.mini{background:#fffdf7;border:1px solid var(--line);border-radius:14px;padding:1rem;box-shadow:0 8px 20px rgba(40,35,25,.10);font-size:clamp(.8rem,1.2vw,1.25rem);font-weight:700}.mini:nth-child(2){transform:translateX(18px) rotate(-2deg)}.mini:nth-child(3){transform:translateX(4px) rotate(2deg)}.mini small{display:block;color:var(--muted);font-weight:500;margin-top:.35rem}
+  .bigquote{font-size:clamp(2rem,4vw,4.6rem);line-height:1.02;letter-spacing:-.045em;max-width:1100px}.bigquote em{color:var(--orange);font-style:normal}
+  ul{padding-left:1.2em;margin:1rem 0 0}li{margin:.45rem 0}.number{font:800 clamp(2.3rem,5vw,5.5rem)/1 ui-monospace,monospace;color:var(--orange)}
+  .flow{display:flex;align-items:center;gap:.8rem;margin-top:2.4rem}.flow .node{flex:1;padding:1.1rem;border:1px solid var(--line);background:var(--card);border-radius:14px;font-weight:750}.arrow{font-size:2rem;color:var(--orange)}
+  .footerline{position:absolute;left:8%;right:8%;bottom:11%;height:4px;background:var(--line)}.footerline:after{content:"";display:block;width:26%;height:100%;background:var(--orange)}
+  .controls{position:fixed;z-index:5;bottom:18px;left:50%;transform:translateX(-50%);display:flex;gap:7px;opacity:.18;transition:opacity .2s}.controls:hover{opacity:1}.controls button{border:0;background:#111;color:#fff;border-radius:8px;padding:8px 12px;cursor:pointer}.controls button:focus{outline:2px solid var(--orange)}
+  .progress{position:absolute;top:0;left:0;height:5px;background:var(--orange);transition:width .2s}
+  @media(max-width:800px){.two,.three{grid-template-columns:1fr}.slide{padding:9% 8%}.cat-wrap,.cards{opacity:.2;pointer-events:none}.panel{padding:1rem}.flow{display:grid;grid-template-columns:1fr}.arrow{display:none}}
+  @media print{body{background:#fff;display:block}.deck{width:100vw;height:56.25vw}.slide{display:block!important;position:relative;page-break-after:always}.controls{display:none}.slide:last-child{page-break-after:auto}}
+</style>
+</head>
+<body>
+<main class="deck" aria-label="When the Bot Fails slide deck">
+<div class="progress" id="progress"></div>
+<section class="slide active" data-title="Title">
+  <div class="kicker">Responsible conversational AI</div>
+  <h1 style="margin-top:2rem">AI systems are cats.<br><span class="orange">Responsible products use cards.</span></h1>
+  <p class="dek">When the model is capable, persuasive, and occasionally wrong, the product needs visible boundaries around it.</p>
+  <div class="cat-wrap"><div class="cat"> /\_/\\
+( o.o )
+ > ^ <</div><div class="cat-note">No cat was consulted before this metaphor was deployed.</div></div>
+  <div class="meta">WHEN THE BOT FAILS / DRAFT TALK</div><div class="num">01 / 09</div>
+</section>
+<section class="slide" data-title="Metaphor">
+  <div class="kicker">01 / The operating metaphor</div><h2 style="margin-top:1.5rem">The cat is the model.<br>The cards are the product.</h2>
+  <div class="grid two" style="margin-top:3rem"><div class="panel"><span class="tag orange">CAT</span><h3>Probabilistic, adaptive, hard to fully specify</h3><p>It can be useful without being reliable. It can follow the sentence while missing the situation. It does not become safe because the system prompt sounded stern.</p></div><div class="panel"><span class="tag blue">CARD</span><h3>Explicit, bounded, inspectable</h3><p>A card states what can happen, what must not happen, who approves the next step, and what evidence gets recorded.</p></div></div>
+  <div class="num">02 / 09</div>
+</section>
+<section class="slide" data-title="Demos">
+  <div class="kicker">02 / Why demos lie</div><h2 style="margin-top:1.5rem">A good conversation is not a safety result.</h2>
+  <p class="dek">The demo asks: “Can the system produce a convincing answer?” Responsible evaluation asks: “What happens when the user is confused, adversarial, vulnerable, rushed, or simply wrong?”</p>
+  <div class="grid three" style="margin-top:3rem"><div class="panel"><div class="number">01</div><h3>Fluency</h3><p>Sounds competent.</p></div><div class="panel"><div class="number">02</div><h3>Boundary</h3><p>Knows when to stop.</p></div><div class="panel"><div class="number">03</div><h3>Outcome</h3><p>Leaves a trace we can inspect.</p></div></div>
+  <div class="num">03 / 09</div>
+</section>
+<section class="slide" data-title="Four cards">
+  <div class="kicker">03 / Put four cards around the cat</div><h2 style="margin-top:1.5rem">Every consequential capability needs a boundary.</h2>
+  <div class="cards"><div class="mini"><span class="orange">CAPABILITY</span><small>What can the system do?</small></div><div class="mini"><span class="blue">ESCALATION</span><small>When must a person take over?</small></div><div class="mini"><span class="green">RECEIPT</span><small>What evidence survives the turn?</small></div><div class="mini"><span class="orange">FALSIFIER</span><small>What would make this design fail?</small></div></div>
+  <p class="dek" style="margin-top:2.5rem">The cards are not decoration. They are the control surface around a system whose internal reasoning you cannot reliably inspect.</p>
+  <div class="num">04 / 09</div>
+</section>
+<section class="slide" data-title="Evals">
+  <div class="kicker">04 / Failure-oriented evals</div><h2 style="margin-top:1.5rem">Test the conversations you hope nobody starts.</h2>
+  <div class="rule"></div><div class="grid two"><div><h3 class="orange">Build the eval set from failure modes</h3><ul><li>Confidently wrong answers</li><li>Requests for private information</li><li>Emotional dependency cues</li><li>Instruction conflicts and prompt injection</li><li>Requests that cross an action boundary</li></ul></div><div class="panel"><span class="tag">A TEST CASE IS A CARD</span><p><strong>Setup:</strong> user asks for an irreversible action while presenting ambiguous authority.</p><p><strong>Expected:</strong> system pauses, states the uncertainty, asks for confirmation or escalates.</p><p><strong>Receipt:</strong> input class, response, intervention, outcome.</p></div></div>
+  <div class="num">05 / 09</div>
+</section>
+<section class="slide" data-title="Human control">
+  <div class="kicker">05 / Human control</div><h2 style="margin-top:1.5rem">Keep the human at the action boundary, not in the marketing copy.</h2>
+  <div class="flow"><div class="node">Conversation<br><small>model proposes</small></div><div class="arrow">→</div><div class="node">Decision<br><small>system classifies</small></div><div class="arrow">→</div><div class="node" style="border-color:var(--orange)">Approval<br><small>person confirms</small></div><div class="arrow">→</div><div class="node">Action<br><small>external effect</small></div></div>
+  <p class="dek">“Human in the loop” is not a person who can theoretically intervene. It is a specific stop, a specific authority, and a specific record of whether intervention happened.</p>
+  <div class="num">06 / 09</div>
+</section>
+<section class="slide" data-title="Receipts">
+  <div class="kicker">06 / Receipts</div><h2 style="margin-top:1.5rem">The thesis means nothing without the artifact.</h2>
+  <div class="grid two" style="margin-top:3rem"><div><p class="bigquote">A receipt answers the boring questions that become important after the system is wrong.</p></div><div class="panel"><h3>Minimum receipt</h3><ul><li>What did the user ask?</li><li>What did the system infer?</li><li>What did it do or refuse to do?</li><li>Who intervened?</li><li>What happened next?</li></ul></div></div>
+  <div class="rule"></div><p style="color:var(--muted)">A log is not automatically an audit. Preserve provenance, define the outcome, and keep “generated” separate from “acted.”</p><div class="num">07 / 09</div>
+</section>
+<section class="slide" data-title="Workshop">
+  <div class="kicker">07 / Five-minute exercise</div><h2 style="margin-top:1.5rem">Choose one cat. Draw its cards.</h2>
+  <div class="grid three" style="margin-top:3rem"><div class="panel"><div class="number">1</div><h3>Name the capability</h3><p>What can the assistant actually change outside the chat?</p></div><div class="panel"><div class="number">2</div><h3>Name the failure</h3><p>What would a motivated or vulnerable user make it do?</p></div><div class="panel"><div class="number">3</div><h3>Name the receipt</h3><p>What evidence would let you reconstruct the incident?</p></div></div>
+  <p class="dek">If the team cannot answer those three questions, the system is not ready for more autonomy. It is ready for a smaller demo.</p><div class="num">08 / 09</div>
+</section>
+<section class="slide" data-title="Close">
+  <div class="kicker">08 / The operating rule</div><h2 style="margin-top:1.5rem;max-width:1150px">Test the cat.<br>Strengthen the cards.<br><span class="orange">Publish the miss.</span></h2>
+  <p class="dek">Responsible conversational AI is not the absence of failure. It is a system that makes failure harder to cause, easier to detect, safer to contain, and impossible to quietly rewrite.</p>
+  <div class="footerline"></div><div class="meta">LEO GUINAN / IDEA NEXUS VENTURES</div><div class="num">09 / 09</div>
+</section>
+</main>
+<nav class="controls" aria-label="Slide controls"><button id="prev" type="button" aria-label="Previous slide">←</button><button id="next" type="button" aria-label="Next slide">→</button><button id="print" type="button">Print</button></nav>
+<script>
+(() => {
+  const slides=[...document.querySelectorAll('.slide')]; let index=Number(localStorage.getItem('cats-vs-cards-slide')||0);
+  const progress=document.querySelector('#progress');
+  function render(){index=Math.max(0,Math.min(slides.length-1,index));slides.forEach((s,i)=>s.classList.toggle('active',i===index));progress.style.width=((index+1)/slides.length*100)+'%';localStorage.setItem('cats-vs-cards-slide',index);document.title=(index+1)+' / '+slides[index].dataset.title+' — Cats vs Cards'}
+  function move(delta){index+=delta;render()}
+  document.querySelector('#prev').addEventListener('click',()=>move(-1));document.querySelector('#next').addEventListener('click',()=>move(1));document.querySelector('#print').addEventListener('click',()=>window.print());
+  window.addEventListener('keydown',e=>{if(['ArrowRight',' ','PageDown'].includes(e.key)){e.preventDefault();move(1)}else if(['ArrowLeft','PageUp'].includes(e.key)){e.preventDefault();move(-1)}else if(e.key==='Home'){index=0;render()}else if(e.key==='End'){index=slides.length-1;render()}else if(e.key.toLowerCase()==='p'){window.print()}});render();
+})();
+</script>
+</body>
+</html>
